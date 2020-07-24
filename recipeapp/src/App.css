@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.nav{
+  background: rgb(61, 109, 128);
+  width: auto;
+  height: 100px;
+  margin: 0 0 30px 0;
+  display: grid;
+  grid-template: auto / auto auto;
+  align-items: center;
+  color: white;
+}
